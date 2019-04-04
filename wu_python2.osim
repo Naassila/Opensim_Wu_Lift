@@ -449,9 +449,9 @@
 					<!--The mass of the body (kg)-->
 					<mass>20</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
-					<mass_center>-0.0299121 0.31906200000000001 0</mass_center>
+					<mass_center>-0.0591 -0.1486 0</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>1.46587 0.75107699999999999 1.42302 0 0 0</inertia>
+					<inertia>1.29841 0.35245 1.29841 0 0 0</inertia>
 				</Body>
 				<Body name="clavicle">
 					<!--The geometry used to display the axes of this Frame.-->
